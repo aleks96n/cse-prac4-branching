@@ -1,0 +1,19 @@
+1. git show-branch -a
+master
+bower
+package
+index
+landing
+landing-ru
+answers
+
+2.Added index.html, it did not show what branch it merged with, meaning it merged with master
+
+3. git rev-list --all --count 
+16 
+
+4. package has Added package
+But I did not use the terminal, I looked at the website. git log package showed master commits, I
+am guessing because package was merged with master or something.
+I would like to know how I could know without using github :D
+
