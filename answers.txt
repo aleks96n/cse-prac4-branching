@@ -7,7 +7,8 @@ landing
 landing-ru
 answers
 
-2.Added index.html, it did not show what branch it merged with, meaning it merged with master
+2.Can't do a task without making a mistake it seems :D Branch package was merged with master
+git branch --merge when on master branch using git checkout master
 
 3. git rev-list --all --count 
 16 
